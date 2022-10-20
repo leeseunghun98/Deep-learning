@@ -11,7 +11,7 @@ Deep-learning
 
 소 발정기 판별 모델(Detectron2) (출력이 많아 발생하는 렉을 줄이기 위해 출력 지움)
 
-283팀 중 11등 ()
+283팀 중 11등
 
 4326개의 train image들을 validation 용도의 이미지 1082개와 나눠서 진행
 
