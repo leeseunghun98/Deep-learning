@@ -9,6 +9,12 @@ Deep-learning
 
 ### 스마트축사 데이터 활용 대회
 
+#### 프로젝트 구조
+
+Blue : 본인 파트, Red : 팀원 파트, Yellow : 공동 파트
+
+![image](https://user-images.githubusercontent.com/78264248/198826409-cc6d8544-740a-455d-bab9-2a6fe64d6559.png)
+
 소 발정기 판별 모델(Detectron2) (출력이 많아 발생하는 렉을 줄이기 위해 출력 지움)
 
 283팀 중 11등
